@@ -93,4 +93,4 @@ client.on("messageCreate", async (message) => {
     }
 });
 
-client.login("MTUwNzEzMzQ3MTEyOTIwNjg0NQ.Gvr4rV.4aZd0lO5IW0q-hITEjlU9UGmWWt57MfPO8ejak");
+client.login("ENTER-YOUR-DISCORD-TOKEN");
